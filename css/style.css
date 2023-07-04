@@ -110,7 +110,9 @@ nav [class*="fa-"]:hover {
     color: var(--white);
 }
  
-
+.section-blue {
+        background-color: var(--dkblue);
+    }
 /* for destop view */
 @media(min-width: 800px) {
     nav {
